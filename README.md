@@ -1,4 +1,4 @@
-# Software Enginnering Project
+# ONLINE COURSE PORTAL
 #### Team Members
 
 |Enrollment No.|Name|GithubId|
@@ -8,15 +8,12 @@
 |IIT2019094|Sangam Barnwal|sangam65|
 |IIT2019098|Abhinav|abhinav230201|
 
-group no. - 24
+group no. - 1
 
 ---
 ## About Project
 
-Our project is about conducting Exam on Online portal In which Teacher/Instructor Can create a course ,In which He can post exam 
-(Mcq exam) which is given by the student who are enrolled to this course,After the Test ends they can see detailed analysis of 
-their response of the that test like pie chart,percentage and teacher can see the responses of all the students who gave exam and 
-evaluate on the basis of No. of correct Answer.
+Our project is web-based project and about an Online portal In which Teacher/Instructor Can create a course ,In which he can post description about the course ,He can post announcement related to the course, student can post query and doubts regarding the post. Faculty can post exam (MCQ exam) which is given by the student who are enrolled to this course, After the Test ends they can see detailed analysis of their response of the that test like pie chart, percentage and teacher can see the responses of all the students who gave exam and evaluate on the basis of No. of correct Answer. We also have tried to reduce cheating by adding functionality like Student cannot change tab while giving test.
 
 ---
 ## Technology Used
