@@ -27,7 +27,7 @@ for Back-End : Node JS (Express Framewrok) , MongoDB
 
 Download project
 ```
-git clone https://github.com/DEADPOOL2001/Online-Test-Management-System-SOE-Project.git
+git clone https://github.com/DEADPOOL2001/DBMS-PROJECT.git
 ```
 Project Initialize 
 ```
