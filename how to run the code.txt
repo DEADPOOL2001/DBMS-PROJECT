@@ -1,0 +1,6 @@
+Follow Steps To Run The Code
+1) Download Node-JS version 14.16.0
+2) Download Mongo Db setup Its server at localhost:27017 and run mongod on background
+3) Write npm i on Command Line
+4) finally ,npm start
+5) go to site http://localhost:3000/
